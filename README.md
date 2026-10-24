@@ -15,7 +15,7 @@ Visual de Windows 11 inspirado nos [dotfiles do eldskald](https://github.com/eld
 | Terminal | Windows Terminal (esquema Tokyo Night) | `terminal/` |
 | Perfil do PowerShell | `Microsoft.PowerShell_profile.ps1` | raiz |
 | Temperatura da CPU | [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) | só o `sensor_id` no `config.yaml` |
-| Papel de parede | Wallpaper Engine | não incluído |
+| Papel de parede | Wallpaper Engine | Anime Console Black and Purple |
 
 ## Paleta
 
