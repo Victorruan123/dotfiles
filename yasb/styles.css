@@ -1,0 +1,40 @@
+* {
+  font-family: "JetBrainsMono Nerd Font";
+  font-size: 13px;
+  font-weight: 600;
+  color: #c0caf5;
+}
+
+.yasb-bar {
+  background-color: rgba(26, 27, 38, 0.88);
+  border-radius: 14px;
+}
+
+.widget { padding: 0 8px; }
+.widget .label { color: #c0caf5; }
+.widget .icon { color: #7aa2f7; }
+
+.active-window-widget .label { padding-left: 10px; }
+.media-widget .label { color: #bb9af7; }
+.cpu-widget .icon { color: #9ece6a; }
+.memory-widget .icon { color: #e0af68; }
+.wifi-widget .icon,
+.bluetooth-widget .icon,
+.volume-widget .icon { color: #7dcfff; }
+.weather-widget .icon { color: #e0af68; }
+.libre-monitor-widget .icon { color: #f7768e; }
+
+.weather-card { background-color: rgba(26, 27, 38, 0.92); }
+.weather-card-today {
+  border: 1px solid #292e42;
+  border-radius: 8px;
+  background-color: rgba(31, 35, 53, 0.6);
+}
+.weather-card-today .label { font-size: 12px; }
+.weather-card-today .label.location { font-size: 24px; font-weight: 700; }
+.weather-card-day {
+  border: 1px solid #3b4261;
+  border-radius: 8px;
+  background-color: rgba(31, 35, 53, 0.6);
+}
+.weather-card-day .label { font-size: 12px; }
